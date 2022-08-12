@@ -85,6 +85,7 @@ b{
     filter: blur(2px);
 }
 .item:hover b{
+    background-color: transparent;
     text-decoration: underline;
     position: absolute;
     top: 110px;
