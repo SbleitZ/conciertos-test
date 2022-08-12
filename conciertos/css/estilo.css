@@ -91,7 +91,7 @@ b{
     left: 65px;
     visibility: visible;
     font-size: 0.5;
-    color: rgb(133, 67, 67);
+    color: lightgreen;
     transition: top 1s;
 }
 .banner:hover b{
